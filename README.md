@@ -4,7 +4,7 @@
 A Capital of Countries which gets all the country information and displays them in a list  using React Native.
 
 ## Set up
-1. `git clone ` 
+1. `git clone https://github.com/raihan6714/capital-of-countries.git` 
 2. `cd population-information`
 3. `yarn`
 4. `expo start`
